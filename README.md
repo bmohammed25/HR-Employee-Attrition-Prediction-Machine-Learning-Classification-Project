@@ -1,0 +1,2 @@
+# Employee-Attrition-Prediction-Machine-Learning-Classification-Project
+A complete machine learning workflow designed to predict employee attrition, specifically whether a data professional is likely to seek a job change. Using a real-world HR dataset, the project applies classification algorithms to identify key factors contributing to attrition and build a model that can support HR decision-making.
